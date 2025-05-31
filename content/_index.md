@@ -1,5 +1,5 @@
 +++
-title = "Daniel Ye"
+title = "Home"
 +++
 
 # Welcome to my blog! 👋
