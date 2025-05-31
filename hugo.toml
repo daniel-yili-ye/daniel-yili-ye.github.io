@@ -4,3 +4,6 @@ title = 'Daniel Ye 👨‍💻'
 theme = "hugo-bearblog"
 author = "Daniel Ye"
 copyright = "Copyright © 2025, Daniel Ye."
+
+[params]
+hideMadeWithLine = true

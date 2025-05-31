@@ -2,7 +2,7 @@
 title = "Your Post Title"
 date = "2025-05-26"
 tags = ["post"]
-draft = true
+draft = false
 +++
 # hi
 ## goodbye
