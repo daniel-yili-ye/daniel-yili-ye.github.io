@@ -5,5 +5,27 @@ theme = "hugo-bearblog"
 author = "Daniel Ye"
 copyright = "Copyright © 2025, Daniel Ye."
 
+# Main navigation menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
 [params]
 hideMadeWithLine = true
+dateFormat = "2006-01-02"
+
+# Configure syntax highlighting for code snippets
+[markup]
+  [markup.highlight]
+    style = 'github'
+    lineNos = false
+    lineNumbersInTable = false
+    codeFences = true
+    tabWidth = 2
+    noClasses = false

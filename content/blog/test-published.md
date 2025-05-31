@@ -6,3 +6,7 @@ draft = false
 +++
 
 This post should always be visible.
+
+```python
+print("hello world")
+```
