@@ -19,10 +19,9 @@ Over the summer of 2020, my brother and I set out to define, design, and build a
 
 ## The Problem
 
-During COVID-19, the government of Ontario required every small business to track their customers. Each customer must provide their personal information (ie. name, phone number, etc.), so they could be alerted if an outbreak were to occur at the business. This was typically done using pen and paper.
+During COVID-19, the government of Ontario required every small business to track their customers. Each customer must provide their personal information (ie. name, phone number, email, etc.), so they could be alerted if an outbreak were to occur at the business. This was typically done using pen and paper.
 
 **Customer perspective:**
-- Annoying to be forced to provide personal information
 - Uncomfortable and unsafe due to shared physical resources (pen, paper)
 - More human interactions increased virus spreading risk
 
@@ -47,11 +46,11 @@ Ronify is a digital customer-tracking solution that works in three simple steps:
 
 3. **Contact Tracking**: Business owner can now track customer information contact-free
    - All data stored securely in one online location
-   - Easy to search and export when needed
+   - Easy to search and contact when needed
 
 ## Impact & Recognition
 
-While the urgent need for Ronify has decreased, it served as a valuable tool for small business owners during the height of COVID-19. The project has been recognized with several awards:
+While the urgent need for Ronify has decreased, it served as a valuable tool for several small business owners in our neighbourhood during the height of COVID-19. The project has been recognized with several awards:
 
 - **Concept by Velocity** - Semi-finalist
 - **Randy Bauslaugh Entrepreneurship Award** - Winner

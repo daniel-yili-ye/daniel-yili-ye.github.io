@@ -5,15 +5,15 @@ tags = ["project", "web", "react", "python", "gcp"]
 draft = false
 +++
 
-**Automating recurring form signups with intelligent scheduling—eliminating the tedious weekly routine of manually sending Google Forms and managing waitlists for sports drop-ins.**
+**Automating recurring form signups with intelligent scheduling, eliminating the tedious weekly routine of manually sending Google Forms and managing waitlists for sports drop-ins.**
 
 ## Links
-- **[🌐 Live Site](https://formloop.com)**
+- **[🌐 Live Site](https://formloop.vercel.app/)**
 - **[💻 GitHub Repository](https://github.com/daniel-yili-ye/FormLoop)**
 
 ## Introduction
 
-I help coordinate weekly sports drop-ins at my church. The process is typically the same week to week. Every week at a specific time, an admin needs to remeber to send out a Google Form in a WhatsApp groupchat and a corresponding Google Sheet is shared to the group showing who signed up and who's on the waitlist. Complexity arises since we run multiple sports (basketball and volleyball) and admins and need to manage the signup wailist and user preferences for each sport/session they are responsible for on an ongoing basis.
+I help coordinate weekly sports drop-ins at my church. The process is typically the same week to week. Every week at a specific time, an admin needs to remember to send out a Google Form in a WhatsApp groupchat and a corresponding Google Sheet is shared to the group showing who signed up and who's on the waitlist. Complexity arises since we run multiple sports (basketball and volleyball) and admins and need to manage the signup wailist and user preferences for each sport / session they are responsible for on an ongoing basis.
 
 After months of this tedious weekly ritual, I realized this was the perfect opportunity to build a solution that could automate the entire process while giving participants a better experience.
 
@@ -24,16 +24,14 @@ Managing recurring sports signups manually creates unnecessary overhead and pote
 **Administrative burden:**
 - Manually sending forms at scheduled times every week
 - Sharing separate spreadsheets to show signup status and waitlists
-- Managing different signup requirements for different sports
+- Managing the waitlist status over time as participants signup / dropout over time
 - Remembering to open and close signups at the right times
+- **Complexity specific to us:** Our volleyball drop-in runs two sessions every Wednesday night, and participants need to specify their session preference priority, something that's clunky for admins to manually handle with standard Google Forms / Sheets.
 
 **User experience issues:**
 - Participants have to wait for forms to be manually sent out
-- No real-time visibility into signup status or waitlist position
-- Complex scenarios (like volleyball's dual sessions) are hard to manage in basic Google Forms
+- No truly accurate real-time visibility into signup status or waitlist position
 - No automated notifications about signup status (i.e. getting off the waitlist)
-
-**Specific complexity example:** Our volleyball drop-in runs two sessions every Wednesday night, and participants need to specify their session preference priority—something that's clunky to handle with standard Google Forms.
 
 ## The Solution
 
@@ -70,13 +68,11 @@ Built with reliable, well-tested technologies for consistent performance:
 
 ## Impact & Future Plans
 
-FormLoop is currently being developed to serve our church's basketball and volleyball drop-ins, with plans to expand to other recurring activities. The goal is to eliminate the weekly administrative overhead while providing participants with a better, more transparent signup experience.
+FormLoop is currently being developed to serve our church's basketball and volleyball drop-ins, with the possibility to expand to other recurring activities. The goal is to eliminate the weekly administrative overhead while providing participants with a better, more transparent signup experience.
 
 **Planned improvements:**
-- Email/SMS notifications for signup confirmations and waitlist updates
-- Analytics dashboard for tracking participation trends
-- Integration with calendar systems
-- Support for payment collection for paid activities
+- Admin analytics dashboard for tracking participation trends
+- Support for payment collection for paid signup activities
 - Multi-organization support for other churches or community groups
 
 ## Key Learnings
@@ -88,4 +84,3 @@ This project is providing valuable experience in:
 - **User Experience**: Designing intuitive interfaces for both admins and participants
 - **Scheduling Systems**: Creating reliable automated workflows for recurring events
 - **Community Solutions**: Solving real problems for local organizations and volunteer coordinators
-

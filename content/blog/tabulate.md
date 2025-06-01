@@ -5,7 +5,7 @@ tags = ["project", "web", "react", "nextjs", "ai", "vercel"]
 draft = false
 +++
 
-**Effortlessly divide complex restaurant bills, including proportional taxes, tips, and discounts, among multiple payers—ensuring fair allocation every time, even with shared items!**
+**Effortlessly divide complex bills, including proportional taxes, tips, and discounts, among multiple payers—ensuring fair allocation every time, even with shared items!**
 
 ## Links
 - **[🌐 Live Site](https://tabulate.vercel.app/)**
@@ -13,15 +13,17 @@ draft = false
 
 ## Introduction
 
-After countless experiences with manual calculations, [confusing spreadsheets](https://docs.google.com/spreadsheets/d/1ixzuB6UMTsaKO_n8LrY5zwVDDarukj9wdeHAAY13Cis/edit?usp=sharing), and clunky existing tools, I decided to build Tabulate—a solution designed to handle the vast majority (~80%) of typical restaurant bill-splitting scenarios with ease and accuracy.
+After countless experiences with manual calculations, [confusing spreadsheets](https://docs.google.com/spreadsheets/d/1ixzuB6UMTsaKO_n8LrY5zwVDDarukj9wdeHAAY13Cis/edit?usp=sharing), and clunky existing tools, I decided to build Tabulate, a solution designed to handle the vast majority (~80%) of typical bill-splitting scenarios with ease and accuracy.
 
 ## The Problem
 
-Splitting restaurant bills, especially when some items are shared among different groups of people, can be tedious and prone to errors. Calculating everyone's fair share, including proportional tax and tip, often required manual spreadsheets, which wasn't always user-friendly, particularly for less tech-savvy individuals.
+Splitting bills, especially when some items are shared among different groups of people, can be tedious and prone to errors. Calculating everyone's fair share, including proportional tax and tip, often requires manual spreadsheets, which isn't always user-friendly, particularly for less tech-savvy individuals.
 
 >"Isn't this just Splitwise?"
 
-While Splitwise excels at managing shared expenses over time (like trips or roommate situations), it's not optimized for splitting individual restaurant bills with shared items and proportional costs. In Splitwise, individual bill split features are clunky to use or are paywalled (i.e. receipt OCR). In fact, Tabulate complements Splitwise by solving a specific use case where Splitwise falls short. Interestingly, Splitwise recognized this gap and created Plates by Splitwise, but it lacks key features like receipt OCR, custom tax/tip amounts, and a means to share your results. Tabulate is purpose-built for those "in-the-moment" bill splits where you need to handle shared items, tax, and tip accurately. 
+While Splitwise excels at managing shared expenses over time (like trips or roommate situations), it's not optimized for splitting individual bills with shared items and proportional costs. In Splitwise, individual bill split features are clunky to use or are paywalled (i.e. receipt OCR). Tabulate solves a specific use case where Splitwise falls short.[^1] Tabulate is purpose-built for those "in-the-moment" bill splits where you need to allocate shared items, tax, tip, and discounts accurately and proportionally. 
+
+[^1]: Interestingly, Splitwise recognized this gap and created [Plates by Splitwise](https://plates.splitwise.com/), but it lacks key features like receipt OCR, custom tax/tip amounts, and a means to share your results. 
 
 You can also use Tabulate as a compliment to Splitwise, by using Tabulate to calculate your bill split before entering it into Splitwise for a more longer-term expense tracking purpose.
 
@@ -60,9 +62,9 @@ Built with modern web technologies for optimal performance and user experience:
 
 ## Impact & Future Plans
 
-Tabulate has simplified bill-splitting for numerous group outings for myself and my friends. I've used it quite a bit while traveling to help me in split complex bills. For example, [here's](https://tabulate.vercel.app/bills/ed71fba1-a260-4109-91c5-9090b317ea1c) a complex bill split I made to figure out groceries during a recent trip to the Netherlands with friends (which was used to figure out WHAT exactly to enter into Splitwise for each person).
+Tabulate has simplified bill-splitting for numerous group outings for myself and my friends. I've used it quite a bit while traveling to help me in split complex bills. For example, [here's](https://tabulate.vercel.app/bills/ed71fba1-a260-4109-91c5-9090b317ea1c) a complex bill split I made to figure out who owed what for a grocery trip during a recent trip to the Netherlands with friends (which was used to figure out WHAT exactly to enter into Splitwise for each person).
 
-**Planned improvements:**
+### Planned improvements:
 - User accounts for saving bill history
 - Support for multiple currencies
 - More granular bill split options
