@@ -19,7 +19,9 @@ After countless experiences with manual calculations, [confusing spreadsheets](h
 
 Splitting restaurant bills, especially when some items are shared among different groups of people, can be tedious and prone to errors. Calculating everyone's fair share, including proportional tax and tip, often required manual spreadsheets, which wasn't always user-friendly, particularly for less tech-savvy individuals.
 
-**"Isn't this just Splitwise?"**: While Splitwise excels at managing shared expenses over time (like trips or roommate situations), it's not optimized for splitting individual restaurant bills with shared items and proportional costs. In Splitwise, individual bill split features are clunky to use or are paywalled (i.e. receipt OCR). In fact, Tabulate complements Splitwise by solving a specific use case where Splitwise falls short. Interestingly, Splitwise recognized this gap and created Plates by Splitwise, but it lacks key features like receipt OCR, custom tax/tip amounts, and a means to share your results. Tabulate is purpose-built for those "in-the-moment" bill splits where you need to handle shared items, tax, and tip accurately. 
+>"Isn't this just Splitwise?"
+
+While Splitwise excels at managing shared expenses over time (like trips or roommate situations), it's not optimized for splitting individual restaurant bills with shared items and proportional costs. In Splitwise, individual bill split features are clunky to use or are paywalled (i.e. receipt OCR). In fact, Tabulate complements Splitwise by solving a specific use case where Splitwise falls short. Interestingly, Splitwise recognized this gap and created Plates by Splitwise, but it lacks key features like receipt OCR, custom tax/tip amounts, and a means to share your results. Tabulate is purpose-built for those "in-the-moment" bill splits where you need to handle shared items, tax, and tip accurately. 
 
 You can also use Tabulate as a compliment to Splitwise, by using Tabulate to calculate your bill split before entering it into Splitwise for a more longer-term expense tracking purpose.
 
