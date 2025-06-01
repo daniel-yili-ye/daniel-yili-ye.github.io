@@ -2,21 +2,16 @@
 title = "Home"
 +++
 
-# Welcome to my blog! 👋
+# Hi, I'm Daniel Ye! 👋
 
-I'm Daniel, a software developer passionate about technology, coding, and sharing knowledge.
+Software Engineer with experience building full stack web applications. I also hold a CPA and have worked as a Data Analyst. Feel free to reach out if you'd like to chat about tech, finance, or anything interesting!
 
-## What you'll find here
+### Projects
+- [FormLoop](/blog/formloop)
+- [Tabulate](/blog/tabulate)
+- [Ronify](/blog/ronify)
 
-- **Technical tutorials** and coding tips
-- **Project showcases** and development stories  
-- **Thoughts on technology** and industry trends
-- **Programming insights** from my journey
-
-## Latest posts
-
-Feel free to explore my latest blog posts below, or [view all posts](/blog/) to see everything I've written.
-
----
-
-*Thanks for visiting! Connect with me if you'd like to chat about tech, coding, or anything interesting.* 
+### Hobbies
+- Basketball 🏀 (I run weekly drop-ins at my church)
+- Brazilian Jiu-Jitsu 🇧🇷🤼 (white belt w/ 1 stripe)
+- Long Distance Running 🏃‍♂️💨 (currently training for my 3rd marathon)
