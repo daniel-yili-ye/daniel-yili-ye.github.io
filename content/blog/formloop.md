@@ -2,13 +2,13 @@
 title = "FormLoop"
 date = "2025-05-31"
 tags = ["project", "web", "react", "python", "gcp"]
-draft = false
+draft = true
 +++
 
 **Automating recurring form signups with intelligent scheduling, eliminating the tedious weekly routine of manually sending Google Forms and managing waitlists for sports drop-ins.**
 
 ## Links
-- **[🌐 Live Site](https://formloop.vercel.app/)**
+- **[🌐 Live Site](https://form-loop.vercel.app/)**
 - **[💻 GitHub Repository](https://github.com/daniel-yili-ye/FormLoop)**
 
 ## Introduction
